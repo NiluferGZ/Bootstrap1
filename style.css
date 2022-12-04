@@ -1,0 +1,44 @@
+/* Body Genel*/
+
+body {
+    background-color:#E9ECEF;
+}
+
+/* Navbar */
+
+.navbar-expand-lg {
+    height: 60px;
+}
+
+/* Navbar */
+
+
+/* İcerik */
+
+
+.jumbotron {
+    margin-top: 5%;
+}
+
+h3 {
+    margin-top: 4%;
+}
+
+.center {
+    text-align: center;
+}
+
+.noneicon {
+    list-style-type: none;
+
+}
+
+li a{
+    text-decoration: none;
+    color: chocolate;
+}
+
+li a:hover {
+    color:darkgreen
+}
+
